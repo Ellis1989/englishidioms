@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "English Idioms", "English Idioms\English Idioms.csproj", "{B63B9055-B9D2-462B-8631-D41E606A2893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63B9055-B9D2-462B-8631-D41E606A2893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63B9055-B9D2-462B-8631-D41E606A2893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63B9055-B9D2-462B-8631-D41E606A2893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63B9055-B9D2-462B-8631-D41E606A2893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D08389BE-569C-4468-8586-39B8A26F1C3A}
+	EndGlobalSection
+EndGlobal
